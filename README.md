@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a Software Engineer, I have experience building high scalaple data crawlers, data piplines and backend APIs.
+I’m a Software Engineer, I have experience building high scalable data crawlers, data pipelines, and backend APIs.
 
 #### 🧐 More About Me:
 
