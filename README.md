@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-I’m a Software Engineer, I have experience building highly scalable backend APIs, data pipelines, and data crawlers.
+I’m a Software Engineer, I have experience building highly scalable backend APIs.
+
+<center>
+  <table>
+    <tr>
+        <td><img width="300px" align="left" src="https://github-readme-stats-xi-beryl-91.vercel.app/api/top-langs/?username=gitexel&layout=compact&theme=transparent" /></td>
+        <td><img align='right' src="https://github-readme-stats-xi-beryl-91.vercel.app/api?username=gitexel&show_icons=true&theme=transparent" width="380"></td>
+    </tr>
+  </table>
+</center>
 
 #### 🧐 More About Me:
 
